@@ -32,4 +32,6 @@ int main (int argc, char **argv){
    float total = addTax(tax, price);
 
    cout << "Total: $" << total << endl;
+
+   return 0;
 }
